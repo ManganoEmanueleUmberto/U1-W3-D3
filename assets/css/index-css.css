@@ -1,0 +1,31 @@
+h1 {
+  font-size: 3em;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 4%;
+}
+
+body {
+  background-color: white;
+}
+label {
+  display: block;
+  margin: 1% 0;
+  color: black;
+}
+p {
+  margin-top: 7%;
+  margin-right: 10%;
+}
+#task button {
+  margin-right: 60%;
+  margin-bottom: 5%;
+}
+#conteiner {
+  width: 600px;
+  margin-inline: auto;
+}
